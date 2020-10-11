@@ -4,5 +4,4 @@
 - p6df::modules::slack::external::brew()
 - p6df::modules::slack::home::symlink()
 - p6df::modules::slack::init()
-- p6df::modules::slack::version()
 
