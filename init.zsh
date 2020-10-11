@@ -15,9 +15,10 @@ p6df::modules::slack::version() { echo "0.0.1" }
 #>
 ######################################################################
 p6df::modules::slack::deps() {
-    ModuleDeps=(
-	rockymadden/slack-cli
-    )
+  ModuleDeps=(
+    p6m7g8/p6common
+    rockymadden/slack-cli
+  )
 }
 
 ######################################################################
