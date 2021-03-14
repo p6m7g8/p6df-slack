@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-slack:
+
+#### p6df-slack/init.zsh:
 
 - p6df::modules::slack::aliases::init()
 - p6df::modules::slack::deps()
