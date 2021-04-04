@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-slack/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **link:** remove rendundant symlinks; echo for now ([#11](https://github.com/p6m7g8/p6df-slack/issues/11)) ([ddef4b2](https://github.com/p6m7g8/p6df-slack/commit/ddef4b2868bb54960437cb7b91fe7b8ecc931c15))
+* **README:** updates generator ([#10](https://github.com/p6m7g8/p6df-slack/issues/10)) ([ea8eeec](https://github.com/p6m7g8/p6df-slack/commit/ea8eeecdf86a73ffccfea1cae2c90d4a9feda033))
+* Coc -> .github ([a959030](https://github.com/p6m7g8/p6df-slack/commit/a959030476fa53e3a872f516aa03daeba40d77e0))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-slack/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
